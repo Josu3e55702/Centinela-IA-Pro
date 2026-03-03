@@ -1,0 +1,8 @@
+streamlit
+pandas
+psutil
+joblib
+scikit-learn
+fpdf
+requests
+plotly
